@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/bitsolo_bg.qm</file>
+        <file alias="de">locale/bitsolo_de.qm</file>
+        <file alias="en">locale/bitsolo_en.qm</file>
+        <file alias="es">locale/bitsolo_es.qm</file>
+        <file alias="fi">locale/bitsolo_fi.qm</file>
+        <file alias="fr">locale/bitsolo_fr.qm</file>
+        <file alias="it">locale/bitsolo_it.qm</file>
+        <file alias="ja">locale/bitsolo_ja.qm</file>
+        <file alias="pl">locale/bitsolo_pl.qm</file>
+        <file alias="pt">locale/bitsolo_pt.qm</file>
+        <file alias="ru">locale/bitsolo_ru.qm</file>
+        <file alias="sk">locale/bitsolo_sk.qm</file>
+        <file alias="sv">locale/bitsolo_sv.qm</file>
+        <file alias="vi">locale/bitsolo_vi.qm</file>
+        <file alias="zh_CN">locale/bitsolo_zh_CN.qm</file>
+        <file alias="zh_TW">locale/bitsolo_zh_TW.qm</file>
+    </qresource>
+</RCC>

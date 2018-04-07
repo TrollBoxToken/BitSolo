@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=BSL
+Comment=BSL P2P Cryptocurrency
+Exec=bitsolo-qt %u
+Terminal=false
+Type=Application
+Icon=bitsolo128
+MimeType=x-scheme-handler/bitsolo;
+Categories=Office;Finance;
+Name[en_US]=bitsolo-qt.desktop

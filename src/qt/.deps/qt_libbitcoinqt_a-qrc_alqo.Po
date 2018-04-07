@@ -1,0 +1,4 @@
+qt/qt_libbitcoinqt_a-qrc_bitsolo.o: qt/qrc_bitsolo.cpp \
+ /usr/include/stdc-predef.h
+
+/usr/include/stdc-predef.h:

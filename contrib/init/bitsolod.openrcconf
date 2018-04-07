@@ -1,0 +1,26 @@
+# /etc/conf.d/bitsolod: config file for /etc/init.d/bitsolod
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/bitsolo/bitsolo.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/bitsolod"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/bitsolod.pid"
+
+# Where to write bitsolod data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/bitsolod"
+
+# User and group to own bitsolod process
+#BITCOIND_USER="bitsolo"
+#BITCOIND_GROUP="bitsolo"
+
+# Path to bitsolod executable
+#BITCOIND_BIN="/usr/bin/bitsolod"
+
+# Nice value to run bitsolod under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""
